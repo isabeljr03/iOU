@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">iOUApplication</string>
+
+    <string name="invalid_creds">Invalid email or password.</string>
+    <string name="invalid_password">Password must have at least 6 characters.</string>
+    <string name="invalid_email">Email must be of the form: name@domain.ext</string>
+    <string name="invalid_display_name">You must put in at least one character for the display name.</string>
+
+    <string name="nonexistent">Email or password does not belong to an existing user.</string>
+
+    <string name="sign_up_success">Sign up successful!</string>
+    <string name="sign_up_fail">Failed to sign up.</string>
+
+    <string name="pw_change_fail">Failed to change password.</string>
+    <string name="pw_change_success">Password change successful!</string>
+
+    <string name="pw_reset_success">An email was sent with password reset instructions.</string>
+    <string name="pw_reset_fail">Failed to send an email.</string>
+
+    <string name="welcome_message_start">Welcome, </string>
+    <string name="welcome_message_end"> to your Dashboard!</string>
+
+    <string name="checkbox_start">Change:</string>
+    <string name="checkbox_end">to:</string>
+
+    <string name="users">users</string>
+    <string name="user_endpoint">users/</string>
+
+    <string name="uids">uids</string>
+
+    <string name="location">Location: </string>
+    <string name="pay_by">Pay By: </string>
+    <string name="notes">Notes: </string>
+
+</resources>
